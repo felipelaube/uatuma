@@ -1,0 +1,34 @@
+
+body, html {
+  height: 100%;
+}
+
+h1{
+color: white;
+font-size: 50px;
+}
+
+li{
+color: white;
+font-size: 30px;
+}
+
+#partiuUatuma{
+width: 100vw;
+height: 100vh;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+
+
+}
+#teste{
+  width: 100%;
+    height: 100%;
+   background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(https://fisggar.com/wp-content/uploads/2021/08/FAS-Uatuma-Mirante-do-Uatuma-20.07.2021-CamA-RDF_0733-WEB-72DPI-1200x801.jpg);
+  
+}
